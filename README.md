@@ -1,6 +1,6 @@
 # 📦 Laravel Module Maker
 
-**Module Maker** is a Laravel package that enhances the default `make:*` Artisan commands by generating files directly inside your custom `Modules/` structure — perfect for developers who prefer a modular architecture in Laravel.
+**Laravel Module Maker** is a Laravel package that enhances the default `make:*` Artisan commands by generating files directly inside your custom `Modules/` structure — perfect for developers who prefer a modular architecture in Laravel.
 
 ---
 
