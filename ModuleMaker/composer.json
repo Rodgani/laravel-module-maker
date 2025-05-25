@@ -1,5 +1,5 @@
 {
-    "name": "rodgani/module-maker",
+    "name": "rodgani/laravel-module-maker",
     "version": "1.0.0",
     "description": "A simple Laravel modular",
     "type": "library",

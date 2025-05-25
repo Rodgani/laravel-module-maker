@@ -35,7 +35,7 @@ You can install it via Composer using either a **local path** or directly from *
 
 ### 🔹 Option 1: Install from Local Path
 
-1. Clone or move the package into your Laravel app: packages/Rodgani/module-maker
+1. Clone or move the package into your Laravel app: packages/Rodgani/ModuleMaker
 2. Add this to your Laravel project’s `composer.json`:
 ```
 "repositories": [
@@ -45,7 +45,7 @@ You can install it via Composer using either a **local path** or directly from *
   }
 ],
 ```
-3. Require the package: composer require rodgani/module-maker:dev-master
+3. Require the package: composer require rodgani/laravel-module-maker:dev-master
 
 ### 🔹 Option 2: Install from GitHub
 
@@ -54,11 +54,11 @@ You can install it via Composer using either a **local path** or directly from *
 "repositories": [
   {
     "type": "vcs",
-    "url": "https://github.com/Rodgani/module-maker"
+    "url": "https://github.com/Rodgani/laravel-module-maker"
   }
 ],
 ```
-2. Require the package: composer require rodgani/module-maker:dev-master
+2. Require the package: composer require rodgani/laravel-module-maker:dev-master
 
 🧪 Usage
 Use the following Artisan command to create Laravel classes inside your module:
