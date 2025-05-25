@@ -35,7 +35,7 @@ You can install it via Composer using either a **local path** or directly from *
 
 ### 🔹 Option 1: Install from Local Path
 
-1. Clone or move the package into your Laravel app: packages/Rodgani/ModuleMaker
+1. Clone or move the package into your Laravel app: packages/laravel-module-maker
 2. Add this to your Laravel project’s `composer.json`:
 ```
 "repositories": [
