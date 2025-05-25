@@ -1,0 +1,21 @@
+{
+    "name": "rodgani/module-maker",
+    "version": "1.0.0",
+    "description": "A simple Laravel modular",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rodgani\\ModuleMaker\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rodgani\\ModuleMaker\\ModuleMakerServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
