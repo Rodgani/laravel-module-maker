@@ -6,13 +6,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rodgani\\ModuleMaker\\": "src/"
+            "RodGani\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Rodgani\\ModuleMaker\\ModuleMakerServiceProvider"
+                "RodGani\\ModuleMakerServiceProvider"
             ]
         }
     },

@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Rodgani\ModuleMaker\Console\Commands;
+namespace RodGani\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Str;
-use Rodgani\ModuleMaker\Services\MakeModuleService;
+use RodGani\Services\MakeModuleService;
 use Symfony\Component\Finder\Finder;
 
 class MakeModuleCommand extends Command

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Rodgani\ModuleMaker\Services;
+namespace RodGani\Services;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;

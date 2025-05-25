@@ -1,9 +1,9 @@
 <?php
 
-namespace Rodgani\ModuleMaker;
+namespace RodGani;
 
 use Illuminate\Support\ServiceProvider;
-use Rodgani\ModuleMaker\Console\Commands\MakeModuleCommand;
+use RodGani\Console\Commands\MakeModuleCommand;
 
 class ModuleMakerServiceProvider extends ServiceProvider
 {
