@@ -41,7 +41,7 @@ You can install it via Composer using either a **local path** or directly from *
 "repositories": [
   {
     "type": "path",
-    "url": "packages/Rodgani/module-maker"
+    "url": "packages/Rodgani/ModuleMaker"
   }
 ],
 ```
