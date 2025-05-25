@@ -18,7 +18,7 @@
 
 > ⚠️ This package is in development and **not yet published on Packagist**.
 
-First step make sure register module autoload
+First step make sure register module composer.json autoload
 
 ```
 "autoload": {
