@@ -41,11 +41,11 @@ You can install it via Composer using either a **local path** or directly from *
 "repositories": [
   {
     "type": "path",
-    "url": "packages/Rodgani/ModuleMaker"
+    "url": "packages/laravel-module-maker"
   }
 ],
 ```
-3. Require the package: composer require rodgani/laravel-module-maker:dev-master
+3. Require the package: composer require rodgani/laravel-module-maker --dev
 
 ### 🔹 Option 2: Install from GitHub
 
