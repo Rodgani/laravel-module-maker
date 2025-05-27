@@ -29,34 +29,7 @@ First step make sure register module at composer.json autoload
 },
 ```
 
-You can install it via Composer using either a **local path** or directly from **GitHub**.
-
-### 🔹 Option 1: Install from Local Path
-
-1. Clone or move the package into your Laravel app: packages/laravel-module-maker
-2. Add this to your Laravel project’s `composer.json`:
-```
-"repositories": [
-  {
-    "type": "path",
-    "url": "packages/laravel-module-maker"
-  }
-],
-```
-3. Require the package: composer require rodgani/laravel-module-maker --dev
-
-### 🔹 Option 2: Install from GitHub
-
-1. Add this to your Laravel project’s composer.json:
-```
-"repositories": [
-  {
-    "type": "vcs",
-    "url": "https://github.com/Rodgani/laravel-module-maker"
-  }
-],
-```
-2. Require the package: composer require rodgani/laravel-module-maker --dev
+You can install it via Composer using composer require rodgani/laravel-module-maker --dev
 
 🧪 Usage
 Use the following Artisan command to create Laravel classes inside your module:
