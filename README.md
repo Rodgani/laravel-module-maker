@@ -16,8 +16,6 @@
 
 ## 📦 Installation
 
-> ⚠️ This package is in development and **not yet published on Packagist**.
-
 First step make sure register module at composer.json autoload
 
 ```

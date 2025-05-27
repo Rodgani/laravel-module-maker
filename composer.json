@@ -1,9 +1,17 @@
 {
     "name": "rodgani/laravel-module-maker",
-    "version": "1.0.0",
     "description": "A simple Laravel modular",
     "type": "library",
     "license": "MIT",
+     "authors": [
+        {
+            "name": "Rodel Ganancial",
+            "email": "rod.ganancial@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
     "autoload": {
         "psr-4": {
             "RodGani\\": "src/"
